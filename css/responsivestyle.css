@@ -101,3 +101,9 @@
     }
 }
         
+@media( max-width:755px)
+{
+    .pfp{
+        width: 100%;
+    }
+}
