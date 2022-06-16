@@ -106,4 +106,10 @@
     .pfp{
         width: 100%;
     }
+    .pfp{
+        margin-bottom: 10%;
+    }
+    .abouttext{
+        font-size: 2rem;
+    }
 }

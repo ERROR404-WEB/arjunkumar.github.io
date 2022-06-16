@@ -219,3 +219,6 @@ p {
     border: black solid 0.5px;
     box-shadow: rgb(124, 120, 120) 0px 0px 10px;
 }
+#portfolio .textp{
+    color: var(--primary-color);
+}
