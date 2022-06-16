@@ -208,3 +208,14 @@ p {
     background: var(--bg-black);
     overflow-x: hidden;
 }
+.pfp{
+    /* padding-left: 10%; */
+    margin-left: 30%;
+    justify-content: center;
+    align-items: center;
+}
+.me{
+    width: 50%;
+    border: black solid 0.5px;
+    box-shadow: rgb(124, 120, 120) 0px 0px 10px;
+}
