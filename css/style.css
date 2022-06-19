@@ -235,8 +235,24 @@ p {
     font-size: 1rem;
 }
 .box-shadow-black{
-    box-shadow: rgb(124, 120, 120) 0px 0px 10px;
+    box-shadow: rgb(124, 120, 120) 0px 0px 14px;
 }
 .text-shadow-glow{
-    text-shadow: #854fee 0px 0px 10px;
+    text-shadow: #854fee 0px 0px 14px;
+}
+.text-shadow-glow2{
+    text-shadow: #4458dc 0px 0px 14px;
+}
+.viit:hover
+{
+    box-shadow: #854fee 0px 0px 14px;
+    transform: scale(1.02);
+}
+.projectnames:hover{
+    transform: scale(1.02);
+    text-shadow: #4458dc 0px 0px 14px;
+}
+.textp:hover{
+    transform: scale(1.02);
+    text-shadow: #854fee 0px 0px 14px;
 }
