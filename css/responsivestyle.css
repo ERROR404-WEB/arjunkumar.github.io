@@ -125,10 +125,7 @@
     .abouttext{
         font-size: 1rem;
     }
-    .projectnames{
-        font-size: 10px;
-        padding-left: 20%;
-    }
+    
     .projectss
     {
         margin-left:1% ;
@@ -140,9 +137,7 @@
     .viit{
         width: 100%;
     }
-    .projectnames{
-        font-size: 10px;
-    }
+   
     #portfolio .textp{
         
         padding-left: 10%;
