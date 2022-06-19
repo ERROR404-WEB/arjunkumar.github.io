@@ -231,7 +231,8 @@ p {
 
 
 .projectnames{
-    padding-left: 30%;
+    padding-top: 10px;
+    padding-left: auto;
     font-size: 1rem;
 }
 .box-shadow-black{
