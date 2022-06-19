@@ -136,4 +136,10 @@
     .textp{
         font-size: 3rem;
     }
+    .viit{
+        width: 50%;
+    }
+    .projectnames{
+        font-size: 1rem;
+    }
 }
