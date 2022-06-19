@@ -123,7 +123,7 @@
         margin-bottom: 10%;
     }
     .abouttext{
-        font-size: 2rem;
+        font-size: 1.5rem;
     }
     .projectnames{
         font-size: 2rem;
@@ -138,10 +138,10 @@
         font-size: 2.3rem;
     }
     .viit{
-        width: 80%;
+        width: 100%;
     }
     .projectnames{
-        font-size: 2rem;
+        font-size: 1rem;
     }
     #portfolio .textp{
         
