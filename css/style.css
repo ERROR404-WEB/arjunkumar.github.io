@@ -209,7 +209,7 @@ p {
     overflow-x: hidden;
 }
 .pfp{
-    /* padding-left: 10%; */
+   
     margin-left: 30%;
     justify-content: center;
     align-items: center;
@@ -237,4 +237,6 @@ p {
 .box-shadow-black{
     box-shadow: rgb(124, 120, 120) 0px 0px 10px;
 }
-
+.text-shadow-glow{
+    text-shadow: #854fee 0px 0px 10px;
+}
