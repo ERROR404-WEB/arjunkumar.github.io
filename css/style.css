@@ -234,4 +234,7 @@ p {
     padding-left: 30%;
     font-size: 1rem;
 }
+.box-shadow-black{
+    box-shadow: rgb(124, 120, 120) 0px 0px 10px;
+}
 
