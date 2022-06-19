@@ -131,15 +131,19 @@
     }
     .projectss
     {
-        margin-left:10% ;
+        margin-left:2% ;
     }
     .textp{
-        font-size: 3rem;
+        font-size: 2rem;
     }
     .viit{
         width: 100%;
     }
     .projectnames{
         font-size: 1rem;
+    }
+    #portfolio .textp{
+        
+        padding-left: 10%;
     }
 }
