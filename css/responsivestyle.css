@@ -123,10 +123,10 @@
         margin-bottom: 10%;
     }
     .abouttext{
-        font-size: 1.5rem;
+        font-size: 1rem;
     }
     .projectnames{
-        font-size: 2rem;
+        font-size: 1rem;
         padding-left: 20%;
     }
     .projectss
@@ -141,7 +141,7 @@
         width: 100%;
     }
     .projectnames{
-        font-size: 20px;
+        font-size: 10px;
     }
     #portfolio .textp{
         
