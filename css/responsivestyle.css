@@ -129,10 +129,10 @@
         font-size: 2rem;
         padding-left: 20%;
     }
-    /* .projectss
+    .projectss
     {
         margin-left:2% ;
-    } */
+    }
     .textp{
       
         font-size: 2.3rem;
@@ -141,7 +141,7 @@
         width: 100%;
     }
     .projectnames{
-        font-size: 0.5rem;
+        font-size: 1rem;
     }
     #portfolio .textp{
         
