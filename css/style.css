@@ -429,3 +429,6 @@ text-shadow: #00000063 0px 0px 10px;
         font-size:4vh;
     }
 }
+#home{
+    height: 100vh;
+}
