@@ -292,6 +292,9 @@ p {
     display: block;
     width: 100%;
   }
+  .portfolio{
+    font-size:10px;
+  }
 }
 
 
