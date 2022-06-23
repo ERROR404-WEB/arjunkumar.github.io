@@ -245,7 +245,7 @@ p {
     font-size: 1rem;
 }
 .box-shadow-black{
-    box-shadow: rgb(124, 120, 120) 0px 0px 14px;
+    box-shadow: rgba(173, 166, 166, 0) 0px 0px 14px;
 }
 .text-shadow-glow{
     text-shadow: #854fee 0px 0px 14px;
@@ -293,7 +293,7 @@ p {
     display: block;
     width: 100%;
   }
-  .portfolio{
+  .portfolio .content-title{
     font-size:10px;
   }
 }
