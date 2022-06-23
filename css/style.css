@@ -208,6 +208,12 @@ p {
     background: var(--bg-black);
     overflow-x: hidden;
 }
+.aboutsec{
+    height:100vh;
+    display: flex;
+    justify-content:center;
+    align-items: center;
+}
 .pfp{
    
     margin-left: 30%;
@@ -255,10 +261,7 @@ p {
     transform: scale(1.02);
     text-shadow: #4458dc 0px 0px 14px;
 }
-.textp:hover{
-    transform: scale(1.02);
-    text-shadow: #69666f50 0px 0px 14px;
-}
+
 
 
 @import url(https://fonts.googleapis.com/css?family=Raleway);
@@ -309,7 +312,7 @@ p {
 .portfolio .content .content-overlay {
   background: rgba(0,0,0,0.7);
   position: absolute;
-  height: 99%;
+  height: 100%;
   width: 100%;
   left: 0;
   top: 0;
@@ -369,3 +372,27 @@ p {
   top: 80%;
 }
 
+.headinng1{
+    font-size: 4vw;
+color: #854fee;
+text-shadow: #844fee5b 0px 0px 10px;
+}
+.headingtext{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    text-align: center;
+    margin: 10px;
+    padding-top: 13px;
+   border: 1px solid var(--secondary-color);
+   box-shadow: #854fee 0px 0px 6px;
+}
+@media(max-width:600px)
+{
+    .headinng1{
+        font-size:5vh;
+    }
+}
+.textp{
+    text-shadow: #4458dc 2px 0px 5px;
+}
