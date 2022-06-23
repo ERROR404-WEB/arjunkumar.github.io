@@ -437,10 +437,21 @@ text-shadow: #00000063 0px 0px 10px;
         font-size:2vh;
       
     }
+    .headinng3{
+        font-size: 2vh;
+    }
 }
 #home{
     height: 100vh;
 }
 .home2{
     height: 100vh;
+}
+.rounded:hover{
+    transform: scale(1.02);
+}
+.headinng3{
+    color:var(--primary-color);
+    font-size: 5vh;
+    text-shadow: #4458dc6a 0px 0px 10px;
 }
