@@ -390,7 +390,7 @@ text-shadow: #844fee5b 0px 0px 10px;
 @media(max-width:600px)
 {
     .headinng1{
-        font-size:5vh;
+        font-size:3vh;
     }
 }
 .textp{
@@ -426,7 +426,7 @@ text-shadow: #00000063 0px 0px 10px;
 @media(max-width:600px)
 {
     .headinng2{
-        font-size:4vh;
+        font-size:2vh;
     }
 }
 #home{
