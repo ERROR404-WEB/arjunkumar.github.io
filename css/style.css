@@ -229,7 +229,7 @@ p {
     color: var(--primary-color);
     align-content: center;
     justify-content: center;
-    padding-left: 42%;
+  
 }
 .viit{
     margin:3%;
@@ -395,4 +395,37 @@ text-shadow: #844fee5b 0px 0px 10px;
 }
 .textp{
     text-shadow: #4458dc 2px 0px 5px;
+    margin:20px;
+}
+.certificates img{
+ margin: 10px;
+ display: flex;
+   box-shadow: rgba(255, 255, 255, 0.535) 0px 0px 10px;
+}
+.certificates{
+    box-shadow: #854fee 0px 0px 10px;
+}
+.row {
+    margin: 15px;
+  }
+
+  .headinng2{
+    font-size: 3vw;
+color: #000000;
+text-shadow: #00000063 0px 0px 10px;
+}
+.headingtext2{
+    display: flex;
+    justify-content: center;
+    align-items:center;
+    text-align: center;
+    margin: 10px;
+    padding-top: 13px;
+   
+}
+@media(max-width:600px)
+{
+    .headinng2{
+        font-size:4vh;
+    }
 }
